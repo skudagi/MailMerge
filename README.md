@@ -13,11 +13,11 @@ Support for Mac OSX & custom mail server coming soon...
 
 ---------------------------------------------------------------------------------------------------------------------
 This Python Script uses the following packages
-1) Gtk - For GUI
-2) Tkinter - For GUI dialogs
-3) xlrd - For excel processing
-4) SMTPlib - For SMTP mail transaction
-5) RE - For regex validation
+- Gtk - For GUI
+- Tkinter - For GUI dialogs
+- xlrd - For excel processing
+- SMTPlib - For SMTP mail transaction
+- RE - For regex validation
 
 Beta Version 0.1
 
