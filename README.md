@@ -20,7 +20,9 @@ This Python Script uses the following packages
 5) RE - For regex validation
 
 Beta Version 0.1
+
 Date - 03 May 2015
+
 Features:
 - MailMerge function using a txt message file and a contact book
 - Supports Gmail Mail Server (Doesn't support 2-step verficiation)
